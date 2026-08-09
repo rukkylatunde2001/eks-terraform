@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Node.js
+node_modules/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
